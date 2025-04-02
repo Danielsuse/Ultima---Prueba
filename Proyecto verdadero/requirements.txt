@@ -1,0 +1,9 @@
+yfinance 
+streamlit 
+pandas 
+numpy
+matplotlib
+cufflinks 
+scipy
+warnings 
+plotly
